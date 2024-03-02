@@ -1,0 +1,11 @@
+.vscode
+venv/
+dist/
+build/
+clean
+graphcast.egg-info/
+params/
+stats/
+dataset/
+graphcast/__pycache__/
+run.py
